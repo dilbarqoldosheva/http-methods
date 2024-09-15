@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "dilbar",
+      "email": "dilbar@gmail.com",
+      "adress": "qarshi",
+      "age": 17
+    },
+    {
+      "id": 1,
+      "name": "d",
+      "email": "d@gmail.com",
+      "adress": "qarshi",
+      "age": 1
+    },
+    {
+      "id": "194a",
+      "name": "sdf",
+      "email": "asd",
+      "age": "asd",
+      "adress": "asd"
+    },
+    {
+      "id": "7ca5",
+      "name": "qweds",
+      "email": "qwqew",
+      "age": "we",
+      "adress": "qwe"
+    },
+    {
+      "id": "0347",
+      "name": "qwe",
+      "email": "qwe",
+      "age": "we",
+      "adress": "qwe"
+    },
+    {
+      "id": "a753",
+      "name": "23w4e5tr",
+      "email": "235454",
+      "age": "354y65",
+      "adress": "235435465"
+    },
+    {
+      "id": "9f5a",
+      "name": "qwe",
+      "email": "qwewe",
+      "age": "qwerqw",
+      "adress": "qwer"
+    }
+  ]
+}
